@@ -12,4 +12,4 @@ In this webpage, I made questions and buttons to answer the questions. Also a ti
 
 ## Screenshots
 
-![webpage](code quiz/IMG_5196.jpeg)
+![webpage](IMG_5196.jpeg)
